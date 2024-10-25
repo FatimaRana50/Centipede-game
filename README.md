@@ -10,7 +10,9 @@ Classic Gameplay: Mimics the original arcade mechanics with player shooting, cen
 Graphics and Input Handling: Uses SFML for rendering game elements and capturing player input.
 Setup Instructions
 Clone the Repository:
-git clone https://github.com/yourusername/centipede-game.git
+
+
+git clone https://github.com/FatimaRana50/Centipede-game.git
 
 Install SFML:
 Download and install SFML from here based on your system.
